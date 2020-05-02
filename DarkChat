@@ -1,3 +1,7 @@
+game.Players.LocalPlayer.PlayerScripts:FindFirstChild("BubbleChat"):Destroy()
+
+wait(0.1)
+
 --[[
 	// FileName: BubbleChat.lua
 	// Written by: jeditkacheff, TheGamer101
